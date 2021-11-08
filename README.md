@@ -1,6 +1,7 @@
 # Flappy-Bird-Clone
-This game was developed in Unity environment. The objects used were taken from another platform.
-
+This game was developed in a Unity environment for Android. Set the resolution to 1920x1080 for a better view. 
+                                                      
+                                                       The objects used were taken from another platform.
                                                                  Bird: -- opengameart
                                                                  Backgorund -- opengameart
                                                                  Buttons -- gameart2d
